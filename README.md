@@ -21,15 +21,21 @@ I'm a Full Stack MERN (MongoDB, Express.js, React, Node.js) Developer. I'm passi
 
 🚀 Skills
 Front-end: React, Redux, HTML5, CSS3, JavaScript
+
 Back-end: Node.js, Express.js, MongoDB
+
 Dev Tools: Git, VSCode, Postman, Heroku, Netlify
+
 Other Tools: bcrypt, JWT, Stripe
 
 
 📫 Get in touch
 LinkedIn: 
+
 Email: muminraj15@gmail.com
+
 Website: https://techfussion.github.io/Portfolio/
+
 Feel free to connect with me to discuss any potential collaboration or opportunities.
 
 
