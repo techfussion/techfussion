@@ -14,30 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm Raj, going by the alias techfussion. 👋
+<div>
+	<h1>Hi there 👋, I'm Raj, going by the alias techfussion. </h1>
+	<p>I'm a Full Stack MERN (MongoDB, Express.js, React, Node.js) Developer. 
+		I'm passionate about solving complex problems and building responsive and user-friendly web applications using the latest technologies.
+	</p>
+	<h2>🚀 Skills</h2>
+	<ul>
+		<li>Front-end: React, Redux, HTML5, CSS3, JavaScript</li>
+		<li>Back-end: Node.js, Express.js, MongoDB</li>
+		<li>Dev Tools: Git, VSCode, Postman, Heroku, Netlify</li>
+		<li>Other Tools: bcrypt, JWT, Stripe</li>
+	</ul>
+	<h2>📫 Get in touch</h2>
+	<ul>
+		<li>LinkedIn: </li>
+		<li>Email: muminraj15@gmail.com</li>
+		<li>Website: https://techfussion.github.io/Portfolio/</li>
+	</ul>
+	<h2>Feel free to connect with me to discuss any potential collaboration or opportunities.</h2>
 
-I'm a Full Stack MERN (MongoDB, Express.js, React, Node.js) Developer. I'm passionate about building responsive and user-friendly web applications using the latest technologies.
-
-
-🚀 Skills
-Front-end: React, Redux, HTML5, CSS3, JavaScript
-
-Back-end: Node.js, Express.js, MongoDB
-
-Dev Tools: Git, VSCode, Postman, Heroku, Netlify
-
-Other Tools: bcrypt, JWT, Stripe
-
-
-📫 Get in touch
-LinkedIn: 
-
-Email: muminraj15@gmail.com
-
-Website: https://techfussion.github.io/Portfolio/
-
-Feel free to connect with me to discuss any potential collaboration or opportunities.
-
-
-📝 License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+</div>
