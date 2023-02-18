@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 	<ul>
 		<li>Front-end: React, Redux, HTML5, CSS3, JavaScript</li>
 		<li>Back-end: Node.js, Express.js, MongoDB</li>
-		<li>Dev Tools: Git, VSCode, Postman, Heroku, Netlify</li>
+		<li>Dev Tools: Git, shell, VSCode, Postman, Heroku, Netlify</li>
 		<li>Other Tools: bcrypt, JWT, Stripe</li>
 	</ul>
 	<h2>📫 Get in touch</h2>
 	<ul>
 		<li>LinkedIn: </li>
 		<li>Email: muminraj15@gmail.com</li>
-		<li>Website: https://techfussion.github.io/Portfolio/</li>
+		<li>Website: https://techfussion.github.io/portfolio/</li>
 	</ul>
-	<h2>Feel free to connect with me to discuss any potential collaboration or opportunities.</h2>
+	<p font-size="2rem">Feel free to connect with me to discuss any potential collaboration or opportunities.</p>
 
 </div>
