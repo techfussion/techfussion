@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 	<h1>Hi 👋 from techfussion. </h1>
 	<img src="https://github.com/techfussion/placeholder/blob/main/Linkedin_bg.jpeg?raw=true">
 	<h2>🌟 Intro</h2>
-	<p>I'm a Full Stack MERN (MongoDB, Express.js, React, Node.js) Developer. 
+	<p>I'm a MERN Stack (MongoDB, Express.js, React, Node.js) Developer. 
 		I'm passionate about solving complex problems and building responsive and user-friendly web applications using the latest technologies.
 	</p>
 	<h2>🚀 Skills</h2>
