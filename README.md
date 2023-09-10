@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 	<img src="https://github.com/techfussion/placeholder/blob/main/Linkedin_bg.jpeg?raw=true">
 	<h2>🌟 Intro</h2>
 	<p>I'm a MERN Stack (MongoDB, Express.js, React, Node.js) Developer. 
-		I'm passionate about solving complex problems and building responsive and user-friendly web applications using the latest technologies.
+		I'm passionate about solving complex problems and building responsive, user-friendly web applications using the latest technologies.
 	</p>
 	<h2>🚀 Skills</h2>
 	<ul>
@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 	</ul>
 	<h2>📫 Get in touch</h2>
 	<ul>
-		<li>LinkedIn: </li>
+		<li>LinkedIn: https://linkedin.com/in/raji-abdulmumin-728377279</li>
 		<li>Email: muminraj15@gmail.com</li>
 		<li>Website: https://techfussion.github.io/portfolio/</li>
 	</ul>
-	<p font-size="2rem">Feel free to connect with me to discuss any potential collaboration or opportunities.</p>
+	<p font-size="2rem">Feel free to contact me to discuss any potential collaboration or opportunities.</p>
 
 </div>
